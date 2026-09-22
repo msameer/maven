@@ -3,32 +3,32 @@
   <groupId>dev.msameer.vaw</groupId>
   <artifactId>vaw-api</artifactId>
   <versioning>
-    <lastUpdated>20260922162047</lastUpdated>
+    <lastUpdated>20260922201216</lastUpdated>
     <snapshot>
-      <timestamp>20260922.162047</timestamp>
+      <timestamp>20260922.201216</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.9.8+26.3-20260922.162047-1</value>
-        <updated>20260922162047</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>0.9.8+26.3-20260922.162047-1</value>
-        <updated>20260922162047</updated>
+        <value>0.9.8+26.3-20260922.201216-1</value>
+        <updated>20260922201216</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.9.8+26.3-20260922.162047-1</value>
-        <updated>20260922162047</updated>
+        <value>0.9.8+26.3-20260922.201216-1</value>
+        <updated>20260922201216</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>module</extension>
-        <value>0.9.8+26.3-20260922.162047-1</value>
-        <updated>20260922162047</updated>
+        <value>0.9.8+26.3-20260922.201216-1</value>
+        <updated>20260922201216</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.9.8+26.3-20260922.201216-1</value>
+        <updated>20260922201216</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
