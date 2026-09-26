@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>dev.msameer.vaw</groupId>
+  <artifactId>vaw-api</artifactId>
+  <versioning>
+    <lastUpdated>20260926003119</lastUpdated>
+    <snapshot>
+      <timestamp>20260926.003119</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>0.9.14+26.3-20260926.003119-1</value>
+        <updated>20260926003119</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.9.14+26.3-20260926.003119-1</value>
+        <updated>20260926003119</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>0.9.14+26.3-20260926.003119-1</value>
+        <updated>20260926003119</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.9.14+26.3-20260926.003119-1</value>
+        <updated>20260926003119</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>0.9.14+26.3-SNAPSHOT</version>
+</metadata>
