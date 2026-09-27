@@ -5,10 +5,10 @@
   <versioning>
     <latest>0.10.3+26.3-SNAPSHOT</latest>
     <versions>
-      <version>0.10.3+26.1.2-SNAPSHOT</version>
       <version>0.10.3+26.2-SNAPSHOT</version>
+      <version>0.10.3+26.1.2-SNAPSHOT</version>
       <version>0.10.3+26.3-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20260927015848</lastUpdated>
+    <lastUpdated>20260927082152</lastUpdated>
   </versioning>
 </metadata>
