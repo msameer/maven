@@ -3,12 +3,12 @@
   <groupId>dev.msameer.vaw</groupId>
   <artifactId>vaw-api</artifactId>
   <versioning>
-    <latest>0.10.5+26.3-SNAPSHOT</latest>
+    <latest>0.10.6+26.3-SNAPSHOT</latest>
     <versions>
-      <version>0.10.5+26.1.2-SNAPSHOT</version>
-      <version>0.10.5+26.2-SNAPSHOT</version>
-      <version>0.10.5+26.3-SNAPSHOT</version>
+      <version>0.10.6+26.1.2-SNAPSHOT</version>
+      <version>0.10.6+26.2-SNAPSHOT</version>
+      <version>0.10.6+26.3-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20260928212247</lastUpdated>
+    <lastUpdated>20260928213845</lastUpdated>
   </versioning>
 </metadata>
