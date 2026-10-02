@@ -6,8 +6,9 @@
     <latest>1.0.8+26.3-SNAPSHOT</latest>
     <versions>
       <version>1.0.8+26.1.2-SNAPSHOT</version>
+      <version>1.0.8+26.2-SNAPSHOT</version>
       <version>1.0.8+26.3-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20261002142922</lastUpdated>
+    <lastUpdated>20261002150631</lastUpdated>
   </versioning>
 </metadata>
