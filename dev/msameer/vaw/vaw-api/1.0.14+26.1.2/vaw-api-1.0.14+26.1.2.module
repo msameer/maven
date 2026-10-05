@@ -1,0 +1,123 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.msameer.vaw",
+    "module": "vaw-api",
+    "version": "1.0.14+26.1.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.6.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.4.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "vaw-api-1.0.14+26.1.2.jar",
+          "url": "vaw-api-1.0.14+26.1.2.jar",
+          "size": 55557,
+          "sha512": "d7730202ecac460ac33eeee25c0bc3d4f88087632c93a93ade960d31fa4a037804307834334c2b17390c39b101ed530fe7277cc7bdc4f6ad5f3f8e431ca00c4f",
+          "sha256": "49c973036d18a225a877826fd11f8c8f249ae6095528930b3bf24e5e9d6ac187",
+          "sha1": "f8e156fdd4b6555c3191158315052b312597e106",
+          "md5": "aa9cde5382e1e80523da59a854dcf7ff"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.19.5"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.155.3+26.1.2"
+          }
+        },
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-language-kotlin",
+          "version": {
+            "requires": "1.14.1+kotlin.2.4.20"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.4.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "vaw-api-1.0.14+26.1.2.jar",
+          "url": "vaw-api-1.0.14+26.1.2.jar",
+          "size": 55557,
+          "sha512": "d7730202ecac460ac33eeee25c0bc3d4f88087632c93a93ade960d31fa4a037804307834334c2b17390c39b101ed530fe7277cc7bdc4f6ad5f3f8e431ca00c4f",
+          "sha256": "49c973036d18a225a877826fd11f8c8f249ae6095528930b3bf24e5e9d6ac187",
+          "sha1": "f8e156fdd4b6555c3191158315052b312597e106",
+          "md5": "aa9cde5382e1e80523da59a854dcf7ff"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "vaw-api-1.0.14+26.1.2-sources.jar",
+          "url": "vaw-api-1.0.14+26.1.2-sources.jar",
+          "size": 43190,
+          "sha512": "06dc7f90690a79d77c3017ea67d792f2759cc523fe8d73c4113e855a42a7fbd8796fb576ec465b2f09a482159dc7a06d666c7dda8a4605f02a681a0d8cad59c2",
+          "sha256": "f323fc1893a4c6536f97ce5225580730d3d88182a821efeb380d9d9c96a38325",
+          "sha1": "5c23b95438b5379056c88835ec14f3bb67bbd431",
+          "md5": "9bf806e2615e74a2ff04c9f4ca1925d6"
+        }
+      ]
+    }
+  ]
+}
